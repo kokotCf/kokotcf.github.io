@@ -1,0 +1,13 @@
+ul {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+li {
+    margin-bottom: 5px;
+}
+li:last-child {
+    margin-bottom: 22px;
+}
+.career-link a:hover {
+    text-decoration: underline;
+}
